@@ -1,14 +1,14 @@
 @font-face {
   font-family: cinebold;
-  src: url(assets/fonts/GT-Cinetype-Bold.woff);
+  src: url(../assets/fonts/GT-Cinetype-Bold.woff);
 }
 
 @font-face {
   font-family: cineregular;
-  src: url(assets/fonts/GT-Cinetype-Regular.woff);
+  src: url(../assets/fonts/GT-Cinetype-Regular.woff);
 }
 
 @font-face {
   font-family: cineitalic;
-  src: url(assets/fonts/GT-Cinetype-Regular-Italic.woff);
+  src: url(../assets/fonts/GT-Cinetype-Regular-Italic.woff);
 }

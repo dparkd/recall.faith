@@ -1,0 +1,28 @@
+body {
+  font-family: cineregular;
+  text-rendering: geometricPrecision;
+  background: rgba(0,0,0,0.99);
+  color: white;
+  text-align: center;
+}
+
+.test{
+}
+
+h1 {
+  font-size: 8em;
+  font-family: cinebold;
+}
+
+p {
+  width: 500px;
+  margin: 0 auto;
+  font-size: 1.5em;
+  text-align: justify;
+  margin-bottom: 50px;
+  line-height: 1.6em;
+}
+
+i {
+  font-family: cineitalic;
+}

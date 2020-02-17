@@ -12,3 +12,8 @@
   font-family: cineitalic;
   src: url(../assets/fonts/GT-Cinetype-Regular-Italic.woff);
 }
+
+@font-face {
+  font-family: ogg;
+  src: url(../assets/fonts/Ogg-Roman.ttf);
+}

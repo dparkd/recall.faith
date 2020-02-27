@@ -1,25 +1,25 @@
-// validation code
-var input = document.getElementById("input");
-
-document.getElementById("submit").addEventListener("click", function() {
-  validateForm(input.value);
-})
-
-window.addEventListener("keydown", function(e) {
-  if (e.key == "Enter") {
-      validateForm(input.value);
-  }
-})
-
-function validateForm(x) {
-  if (x == "9143630149") {
-    alert("Congrats. You made it. text (914) 363-0149 for the next step.");
-    return false;
-  } else {
-    alert("try Again");
-  }
-}
-
+// // validation code
+// var input = document.getElementById("input");
+//
+// document.getElementById("submit").addEventListener("click", function() {
+//   validateForm(input.value);
+// })
+//
+// window.addEventListener("keydown", function(e) {
+//   if (e.key == "Enter") {
+//       validateForm(input.value);
+//   }
+// })
+//
+// function validateForm(x) {
+//   if (x == "9143630149") {
+//     alert("Congrats. You made it. text (914) 363-0149 for the next step.");
+//     return false;
+//   } else {
+//     alert("try Again");
+//   }
+// }
+//
 
 // hover code
 var verse = document.getElementById("verse");
